@@ -61,24 +61,24 @@ OpenSpending.Styles.Cofog = {
   '20130900': { icon: 'icons/hospital.svg', color: '#C75746', bcolor: '#D33673' },
   '20130901': { icon: 'icons/hospital.svg', color: '#C75746', bcolor: '#D33673' },
   '20131000': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#790586' },
-  '20131001': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#790586' }
+  '20131001': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#790586' },
   '20131100': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#790586' },
-  '20131101': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#790586' }
+  '20131101': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#790586' },
   '20131200': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
-  '20131201': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' }
+  '20131201': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#790586' },
   '20131300': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '20131301': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '20131301': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '20131400': { icon: 'icons/books.svg', color: '#C75746', bcolor: '#790586' },
-  '20131401': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' }
-  '20131402': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' }
-  '20131403': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' }
-  '20131404': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#790586' }
-  '20131405': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' }
-  '20131406': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#790586' }
+  '20131401': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' },
+  '20131402': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' },
+  '20131403': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' },
+  '20131404': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#790586' },
+  '20131405': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' },
+  '20131406': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#790586' },
   '20131500': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
-  '20131501': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' }
+  '20131501': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
   '20131600': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#790586' },
-  '20131601': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#790586' }
+  '20131601': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#790586' },
   '20131700': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
   '20131701': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
 };
